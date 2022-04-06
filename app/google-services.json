@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605709133157",
+    "project_id": "jay-tracker",
+    "storage_bucket": "jay-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605709133157:android:488ad82d2075550dad6d8c",
+        "android_client_info": {
+          "package_name": "com.example.jay_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605709133157-3jt7cur35mbenajja2kthn5tq5mcmqfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jay_tracker",
+            "certificate_hash": "7f61ac1502ad2e4cffe6e5f88708cbc607bcd5bf"
+          }
+        },
+        {
+          "client_id": "605709133157-mge1bf94e1s561nsnlg8pknaoa2sott3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYoHMhe9SeiYjYMbZoG5QTwbm7Ti9dYew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605709133157-mge1bf94e1s561nsnlg8pknaoa2sott3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
